@@ -1,0 +1,7 @@
+selenium
+undetected-chromedriver
+langchain-openai
+langchain-core
+python-dotenv
+requests
+beautifulsoup4
